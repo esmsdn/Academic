@@ -5,13 +5,13 @@ En este repositorio podrás encontrar los recursos y programas disponibles para
 estudiantes, profesores e instituciones educativas relacionadas con estudios
 técnicos en centros españoles.
 
--   [Recursos académicos](RecursosAcademicos)
+-   [Recursos académicos](RecursosAcademicos.md)
 
--   [Recursos para profesores](RecursosProfesores)
+-   [Recursos para profesores](RecursosProfesores.md)
 
--   [Programas para estudiantes](ProgramasEstudiantes)
+-   [Programas para estudiantes](ProgramasEstudiantes.md)
 
--   [Concursos](Concursos)
+-   [Concursos](Concursos.md)
 
 -   [Emprendedores](https://bizspark.microsoft.com/)
 
