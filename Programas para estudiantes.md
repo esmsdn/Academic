@@ -38,3 +38,5 @@ aprender y por compartir su conocimiento con los demás.
 -   Software de Microsoft
 
 [Más información](https://aka.ms/mspspain)
+
+[Recursos 2015-2016](https://github.com/esmsdn/Microsoft-Student-Partner-Spain)
