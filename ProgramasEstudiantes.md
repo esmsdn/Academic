@@ -39,4 +39,6 @@ aprender y por compartir su conocimiento con los demás.
 
 [Más información](https://aka.ms/mspspain)
 
+[Aplica](https://aka.ms/applymspspain)
+
 [Recursos 2015-2016](https://github.com/esmsdn/Microsoft-Student-Partner-Spain)
