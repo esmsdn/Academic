@@ -5,11 +5,11 @@ En este repositorio podrás encontrar los recursos y programas disponibles para
 estudiantes, profesores e instituciones educativas relacionadas con estudios
 técnicos en centros españoles.
 
--   [Recursos academicos](Recursos académicos)
+-   [Recursos académicos](RecursosAcademicos)
 
--   [Recursos para profesores](Recursos para profesores)
+-   [Recursos para profesores](RecursosProfesores)
 
--   [Programas para estudiantes](Programas para estudiantes)
+-   [Programas para estudiantes](ProgramasEstudiantes)
 
 -   [Concursos](Concursos)
 
