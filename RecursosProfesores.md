@@ -49,11 +49,7 @@ Programas para usar en clase:
 
     -   Hasta 12 horas de consultas a un Microsoft Data Scientist.
 
-    -   Azure Classroom Grants:
-
-        -   Azure Machine Learning y Power BI Basic.
-
-        -   Power BI Pro y Microsoft Azure (200\$/mes) por 2 meses.
+    -   Azure Machine Learning y Power BI Basic.
 
 -   [Azure For
     Research](https://www.microsoft.com/en-us/research/academic-program/microsoft-azure-for-research/):
