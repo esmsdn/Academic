@@ -58,4 +58,4 @@ Programas para usar en clase:
 Otros recursos
 --------------
 
-Presentaciones utilizadas para formar a profesores: [acceder](Presentaciones profesores).
+Presentaciones utilizadas para formar a profesores: [acceder](https://github.com/esmsdn/Academic/tree/master/Presentaciones%20profesores).
